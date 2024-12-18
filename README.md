@@ -125,7 +125,7 @@ This project is licensed under the terms of the MIT license. For more informatio
 
 ## Citation
 If you use this pipeline in your research, please cite:
-[Publication Details]
+Gareth Howells, Aysha L. Sezmis, hristopher Blake, and Michael J. McDonald "Co-existence slows diversification in experimental populations of *E. coli* and *P. fluorescens*." In press
 
 ## Authors
 - Aysha Laila Sezmis
