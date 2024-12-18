@@ -129,5 +129,7 @@ If you use this pipeline in your research, please cite:
 Gareth Howells, Aysha L. Sezmis, Christopher Blake, and Michael J. McDonald "Co-existence slows diversification in experimental populations of *E. coli* and *P. fluorescens*." In Review
 
 ## Authors
+- Gareth Howells 
 - Aysha Laila Sezmis
 - Christopher Blake
+- Michael J. McDonald
